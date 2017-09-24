@@ -1,8 +1,10 @@
 ** Practica Backend con nodejs
 
+Ejecutar npm install
+
 Para inicializar la base de datos ejecutar npm run instalDB
 
-Para inicual a aplicacion ejuctar nodemon
+Para inicuar a aplicacion ejecutar nodemon
 
 En el navegador se accede en localhost:3000
 La web muestra un listado de 6 anuncios por pagina.
