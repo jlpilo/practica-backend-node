@@ -1,0 +1,185 @@
+[
+    {
+        "nombre": "Audi A4",
+        "venta": true,
+        "precio": 15000,
+        "foto":"a4.jpg",
+        "__v": 0,
+        "tags": [
+            "Lifestyle",
+            "Motor"
+        ]
+    },
+    {
+        "nombre": "BMW serie 5",
+        "venta": true,
+        "precio": 25300,
+        "foto":"bmw5.jpg",
+        "__v": 0,
+        "tags": [
+            "Work",
+            "Motor"
+        ]
+    },
+    {
+        "nombre": "BMW serie 3",
+        "venta": true,
+        "precio": 15300,
+        "foto":"bmw3.jpg",
+        "__v": 0,
+        "tags": [
+            "Work",
+            "Motor"
+        ]
+    },
+    {
+        "nombre": "Mercede ML",
+        "venta": true,
+        "precio": 12300,
+        "foto":"mercedesml.jpg",
+        "__v": 0,
+        "tags": [
+            "Lifestyle",
+            "Motor"
+        ]
+    },
+    {
+        "nombre": "iPhone 4S",
+        "venta": false,
+        "precio": 250,
+        "foto":"iphone4s.jpg",
+        "__v": 0,
+        "tags": [
+            "Mobile",
+            "Lifestyle"
+        ]
+    },
+    {
+        "nombre": "Sansung S7",
+        "venta": false,
+        "precio": 600,
+        "foto":"ss7.jpg",
+        "__v": 0,
+        "tags": [
+            "Mobile",
+            "Work"
+        ]
+    },
+    {
+        "nombre": "HTC HD",
+        "venta": true,
+        "precio": 55,
+        "foto":"htchd.jpg",
+        "__v": 0,
+        "tags": [
+            "Mobile"
+        ]
+    },
+    {
+        "nombre": "Samsung Galaxy S5",
+        "venta": true,
+        "precio": 125,
+        "foto":"ss5.jpg",
+        "__v": 0,
+        "tags": [
+            "Mobile"
+        ]
+    },
+    {
+        "nombre": "Monopatín",
+        "venta": false,
+        "precio": 75,
+        "foto":"monopatin.jpg",
+        "__v": 0,
+        "tags": [
+            "Lifestyle"
+        ]
+    },
+    {
+        "nombre": "Camara Nikon DS500",
+        "venta": true,
+        "precio": 750,
+        "foto":"nikon.jpg",
+        "__v": 0,
+        "tags": [
+            "Work",
+            "Lifestyle"
+        ]
+    },
+    {
+        "nombre": "Bicicleta de Montaña",
+        "venta": false,
+        "precio": 1250,
+        "foto":"bike.jpg",
+        "__v": 0,
+        "tags": [
+            "Lifestyle"
+        ]
+    },
+    {
+        "nombre": "Ordenador Portatil",
+        "venta": true,
+        "precio": 650,
+        "foto":"portatil.jpg",
+        "__v": 0,
+        "tags": [
+            "Work",
+            "Mobile",
+            "Lifestyle"
+        ]
+    },
+    {
+        "nombre": "Moto Yamaha SCR",
+        "venta": true,
+        "precio": 6580,
+        "foto":"yamaha.jpg",
+        "__v": 0,
+        "tags": [
+            "Lifestyle",
+            "Motor"
+        ]
+    },
+    {
+        "nombre": "Furgoneta Mercedes",
+        "venta": false,
+        "precio": 18000,
+        "foto":"van.jpg",
+        "__v": 0,
+        "tags": [
+            "Work",
+            "Motor"
+        ]
+    },
+    {
+        "nombre": "Caja de herramientas",
+        "venta": true,
+        "precio": 175,
+        "foto":"tools.jpg",
+        "__v": 0,
+        "tags": [
+            "Work"
+        ]
+    },
+    {
+        "nombre": "iPad",
+        "venta": true,
+        "precio": 365,
+        "foto":"ipad.jpg",
+        "__v": 0,
+        "tags": [
+            "Work",
+            "Mobile"
+        ]
+    },
+    {
+        "nombre": "Autocaravana",
+        "venta": false,
+        "precio": 22500,
+        "foto":"autocaravana.jpg",
+        "__v": 0,
+        "tags": [
+            "Lifestyle",
+            "Motor"
+        ]
+    }
+]
